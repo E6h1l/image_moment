@@ -3,7 +3,6 @@ This project implements methods for processing grayscale images and calculating 
 
 
 ## Example of use
-___
 
 Let's test for the letter A
 
@@ -19,17 +18,16 @@ Result of the comparison:
 >Conclusion: A_Rotated similar to A
 
 ## Requirements
-___
 
 **Python 3.x**\
 **Pillow (PIL)**\
 **NumPy**
 
 ## References
-___
+
 
 https://en.wikipedia.org/wiki/Image_moment
 
 ## Author
-___
+
 ### **[Dmytro Prystaichuk ( E6H1L )](https://github.com/E6h1l)**
